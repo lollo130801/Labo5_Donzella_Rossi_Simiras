@@ -1,6 +1,7 @@
 # labo5
 # donzella-rossi-simiras
 
+
 passaggi:
 
 accesso a ghcr di github:
